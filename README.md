@@ -1,2 +1,2 @@
-# SUSTechGate-
+# SUSTechGate
 SUSTechGate /Run
